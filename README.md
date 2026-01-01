@@ -42,14 +42,3 @@ sh test_runner.sh <your_zip_file>
 
 Replace `<your_zip_file>` with the name of the zip file containing the project files (this script is designed to run in a temporary directory created by unzipping the project).
 
-## Contributing
-
-Feel free to fork this repository, open issues, and submit pull requests. Contributions are welcome!
-
-## Authors
-
-See `authors.txt` for the list of contributors.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details. (Note: A `LICENSE` file would typically be included in a real project; this is a placeholder suggestion).
